@@ -2,7 +2,7 @@
  GeekLogger builds upon the awesome work and research from:
  - Travis Goodspeed of GoodFET (see goodfet.nrf)
  - Thorsten and Max Moser of KeyKeriki v2
- - Samy Kamkar is an American privacy and security researcher, computer hacker, 
+ - Samy Kamkar. an American privacy and security researcher, computer hacker, 
    whistleblower and entrepreneur.
    
    # Use
