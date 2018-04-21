@@ -6,7 +6,7 @@
    whistleblower and entrepreneur.
    
    # Use
-   Used to monitor a rouge sys admin.
-   Logs keystrokes wirelessly and perform actions on triggers.
-   Remotely controls victim's computer via SMS
+   - Used to monitor a rouge sys admin.
+   - Logs keystrokes wirelessly and perform actions on triggers.
+   - Reotely controls victim's computer via SMS
    
